@@ -1,2 +1,3 @@
 .env
 tsnip-key.pem
+__pycache__
