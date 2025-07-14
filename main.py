@@ -30,7 +30,7 @@ async def on_message(message):
     if message.author == bot.user:
         return
 
-    if message.content.lower() == "hello":
+    if message.content.lower() == "DHR2207UVI":
         await message.channel.send("Hey! I'm online 🚀")
 
     # Process commands (important for slash commands to work)
